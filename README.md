@@ -1,0 +1,2 @@
+# lv-json
+JSON parsing and construction utilities. Useful for supplementary and verbose JSON functionality such as minification and non-regular (known layout) JSON objects that can't correspond to pre-defined LabVIEW clusters.
