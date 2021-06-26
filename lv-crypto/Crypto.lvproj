@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="18008000">
+<Project Type="Project" LVVersion="20008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -10,6 +10,12 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Menu" Type="Folder">
+			<Item Name="HMAC Signature.vi" Type="VI" URL="../Menu/HMAC Signature.vi"/>
+			<Item Name="HS256.vi" Type="VI" URL="../Menu/HS256.vi"/>
+			<Item Name="None Signature.vi" Type="VI" URL="../Menu/None Signature.vi"/>
+			<Item Name="SHA-256 Hash.vi" Type="VI" URL="../Menu/SHA-256 Hash.vi"/>
+		</Item>
 		<Item Name="Test" Type="Folder">
 			<Item Name="Test HS256.vi" Type="VI" URL="../Test/Test HS256.vi"/>
 		</Item>
