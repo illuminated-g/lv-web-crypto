@@ -13,6 +13,7 @@
 		<Item Name="Menu" Type="Folder">
 			<Item Name="HMAC Signature.vi" Type="VI" URL="../Menu/HMAC Signature.vi"/>
 			<Item Name="HS256.vi" Type="VI" URL="../Menu/HS256.vi"/>
+			<Item Name="MD5 Hash.vi" Type="VI" URL="../Menu/MD5 Hash.vi"/>
 			<Item Name="None Signature.vi" Type="VI" URL="../Menu/None Signature.vi"/>
 			<Item Name="SHA-256 Hash.vi" Type="VI" URL="../Menu/SHA-256 Hash.vi"/>
 		</Item>

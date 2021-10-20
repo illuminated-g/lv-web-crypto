@@ -45,6 +45,7 @@
 		<Item Name="None.lvclass" Type="LVClass" URL="../Signatures/None/None.lvclass"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
+		<Item Name="Hex Encode String.vi" Type="VI" URL="../Hex Encode String.vi"/>
 		<Item Name="Key Generator.vi" Type="VI" URL="../Key Generator.vi"/>
 	</Item>
 	<Item Name="Hash.lvclass" Type="LVClass" URL="../Hash/Hash.lvclass"/>
