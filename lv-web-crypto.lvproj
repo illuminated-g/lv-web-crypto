@@ -37,9 +37,11 @@
 		<Item Name="Crypto.lvlib" Type="Library" URL="../lv-crypto/Crypto/Crypto.lvlib"/>
 		<Item Name="JSON.lvlib" Type="Library" URL="../lv-json/JSON/JSON.lvlib"/>
 		<Item Name="JWT.lvlib" Type="Library" URL="../lv-jwt/JWT/JWT.lvlib"/>
+		<Item Name="parse-json-recipe.vi" Type="VI" URL="../../../NI/json/parse-json-recipe.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="LVDateTimeRec.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVDateTimeRec.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
