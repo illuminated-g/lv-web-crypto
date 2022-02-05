@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-06-24 15:39:18" Modified_Date="2022-02-04 22:55:42" Creator="hal_dev" Comments="" ID="3ae4a7b3b241aafa15799aa7d5bc168e">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-06-24 15:39:18" Modified_Date="2022-02-04 23:01:50" Creator="hal_dev" Comments="" ID="5ceafb354c62b4ac0f0aaa39ca780a4d">
   <Library_General_Settings>
     <Package_File_Name>IlluminatedG_lib_IG_Web&amp;Crypto</Package_File_Name>
     <Library_Version>0.1.0.8</Library_Version>
@@ -32,8 +32,7 @@
       <Copyright/>
       <Packager>Derrick Bommarito</Packager>
       <URL>https://github.com/illuminated-g/lv-web-crypto</URL>
-      <Release_Notes>Add key generator to palette and a hex encoding string utility
-Add documentation to VIs</Release_Notes>
+      <Release_Notes/>
     </Description>
     <Destinations>
       <Toolkit_VIs>
