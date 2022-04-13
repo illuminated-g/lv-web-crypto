@@ -18,6 +18,9 @@
 				<Item Name="Test Create HS256 JWT.vi" Type="VI" URL="../lv-jwt/Test/Test Create HS256 JWT.vi"/>
 				<Item Name="Test Validate HS256.vi" Type="VI" URL="../lv-jwt/Test/Test Validate HS256.vi"/>
 			</Item>
+			<Item Name="WebSocket" Type="Folder">
+				<Item Name="Test Sec-WebSocket-Key.vi" Type="VI" URL="../lv-crypto/Test/Test Sec-WebSocket-Key.vi"/>
+			</Item>
 		</Item>
 		<Item Name="Menu" Type="Folder">
 			<Item Name="Crypto Snippets" Type="Folder">

@@ -35,6 +35,7 @@
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Hashes" Type="Folder">
 		<Item Name="MD5.lvclass" Type="LVClass" URL="../Hashes/MD5/MD5.lvclass"/>
+		<Item Name="SHA-1.lvclass" Type="LVClass" URL="../SHA-1/SHA-1.lvclass"/>
 		<Item Name="SHA-256.lvclass" Type="LVClass" URL="../Hashes/SHA-256/SHA-256.lvclass"/>
 	</Item>
 	<Item Name="Private" Type="Folder">

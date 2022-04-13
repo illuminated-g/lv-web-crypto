@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-06-24 15:39:18" Modified_Date="2022-02-04 23:01:50" Creator="hal_dev" Comments="" ID="5ceafb354c62b4ac0f0aaa39ca780a4d">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-06-24 15:39:18" Modified_Date="2022-04-13 17:50:47" Creator="hal_dev" Comments="" ID="36b10796d8497617dbb07ebc34b9d3b4">
   <Library_General_Settings>
     <Package_File_Name>IlluminatedG_lib_IG_Web&amp;Crypto</Package_File_Name>
-    <Library_Version>0.1.0.8</Library_Version>
+    <Library_Version>0.1.0.10</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>Derrick Bommarito</Packager>
       <URL>https://github.com/illuminated-g/lv-web-crypto</URL>
-      <Release_Notes/>
+      <Release_Notes>- Added SHA-1 hash functionality which is used in WebSocket handshaking</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -256,7 +256,7 @@
         <Path>lv-jwt</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C870A5B90D1AEDA3DE8F05C5D1FE81E3</GUID>
+      <GUID>1ADBF7CAF7AE6F1F0D04A70E699E8839</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -305,7 +305,7 @@
         <Path>lv-base64\Decode.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BA7ABF3255D92A7BD499B674573923C4</GUID>
+      <GUID>CF193B618EB9470CBC779957EBDA3D0C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -452,7 +452,7 @@
         <Path>lv-crypto\Crypto\Hex Encode String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>61D89D8521C4587BFF0581ED0A8554B1</GUID>
+      <GUID>C0CCE45902DB5900DB413DCA19B4392A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -641,7 +641,7 @@
         <Path>lv-json\JSON\Unescape String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5B1CAAC3B99EBDD7525C6FC68717FB7C</GUID>
+      <GUID>71609B9B0C9E1D4545D0283CC393AA45</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -746,7 +746,7 @@
         <Path>lv-jwt\JWT\Read JWT from File.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>57E83BBD55C895AB36196314DD4B537D</GUID>
+      <GUID>265AC608ED9709F06C7E4A739AC96AB4</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
