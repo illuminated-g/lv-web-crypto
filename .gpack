@@ -1,0 +1,10 @@
+{
+  "Info":{
+    "Name":"git:lv-web-crypto",
+    "Type":"git",
+    "Source":"git@github.com:illuminated-g/lv-web-crypto.git",
+    "Branch":"main",
+    "Version":"bd3f9db58fcca790cc2247320a7e82d7b7af473c"
+  },
+  "Dependencies":[]
+}
